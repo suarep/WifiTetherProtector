@@ -1,0 +1,5 @@
+How to convert to exe:
+    pyinstaller main.py -F (one file)
+    pyinstaller main.py (default, all files in directory
+
+How to register to services:

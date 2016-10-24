@@ -1,0 +1,19 @@
+#Future improvements
+- Create log file
+- Retrieve contents from web
+- Update app via internet
+- Stop all unuse manageApp threads
+-
+
+#03/04/2016
+- Updated print messages.
+- Added checkProgramRunning()
+- Interval parameter added to settings.txt
+- Settings parameters read from settings.txt
+- contents.txt renamed to settings.txt
+- Thread added to manageApp
+- Changed the if condition at "CheckinfWifi"
+#01/04/2016
+- Parameters added into the application. contents.txt is absolute.
+#31/03/2016
+- SSID.txt changed to contents.txt

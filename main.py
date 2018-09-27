@@ -22,7 +22,7 @@ class main:
 
 
 def startTimer():
-    print("Starting timers.")
+    print("Starting timers...")
 
     global Killed
     global appName
